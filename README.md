@@ -176,3 +176,4 @@ We use the [GitHub issue tracker](https://github.com/dpinto-pivotal/cf-SpringBoo
 3. Implement your feature or bug fix.
 4. Commit and push your changes.
 5. Submit a pull request (to the development branch).
+# SpringTrader
